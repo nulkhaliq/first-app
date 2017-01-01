@@ -8,19 +8,21 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 .image {
     max-width: 460px;
+    padding: 30px;
 }
+
 .description {
     max-width: 705px;
 }
+
 .app {
     display: -webkit-flex;
     display: flex;
 }
+
 .title {
     background-color: #03A9F4;
-}
-.image {
-    padding: 30px;
 }
